@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\XMLHW\XMLHW\obj\Debug\XMLHW.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\XMLHW\XMLHW\bin\Debug\XMLHW.exe.config
+c:\users\1\documents\visual studio 2017\Projects\XMLHW\XMLHW\bin\Debug\XMLHW.exe
+c:\users\1\documents\visual studio 2017\Projects\XMLHW\XMLHW\bin\Debug\XMLHW.pdb
+c:\users\1\documents\visual studio 2017\Projects\XMLHW\XMLHW\obj\Debug\XMLHW.exe
+c:\users\1\documents\visual studio 2017\Projects\XMLHW\XMLHW\obj\Debug\XMLHW.pdb
